@@ -180,3 +180,35 @@ a:hover {
     font-weight: bold;
     font-style: normal;
 }
+
+/* --------------------
+   모바일
+-------------------- */
+
+@media (max-width: 700px) {
+
+    .credit-roll {
+        display: flex;
+        flex-direction: column;
+
+        padding: 25px 18px 70px 18px;
+    }
+
+    .intro {
+        padding-right: 0;
+    }
+
+    .image-area {
+        order: 2;
+
+        width: 100%;
+        padding-top: 50px;
+
+        justify-content: center;
+    }
+
+    .image-area img {
+        width: 100%;
+        max-width: none;
+    }
+}
