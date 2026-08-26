@@ -154,6 +154,9 @@ a:hover {
 
 .bottom-menu a {
     white-space: nowrap;
+}
+
+
 /* --------------------
    Works 페이지
 -------------------- */
@@ -173,6 +176,10 @@ a:hover {
 
     font-weight: 400;
 }
+
+
+/* 현재 페이지 메뉴 */
+
 .bottom-menu a.active {
     font-weight: bold;
     font-style: normal;
