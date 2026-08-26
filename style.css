@@ -157,7 +157,7 @@ a:hover {
    Works 페이지
 -------------------- */
 
-.works {
+.credit-roll2 {
     padding: 25px 18px 70px 18px;
 
     display: flex;
@@ -166,7 +166,7 @@ a:hover {
     align-items: flex-start;
 }
 
-.works a {
+.credit-roll2 a {
     font-size: 38px;
     line-height: 1.18;
 
