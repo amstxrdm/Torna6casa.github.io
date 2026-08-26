@@ -173,4 +173,7 @@ a:hover {
 
     font-weight: 400;
 }
+.bottom-menu .active {
+    font-weight: bold;
+}
 }
