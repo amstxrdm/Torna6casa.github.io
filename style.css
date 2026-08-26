@@ -185,30 +185,26 @@ a:hover {
    모바일
 -------------------- */
 
-@media (max-width: 700px) {
-
+@media screen and (max-width: 700px) {
     .credit-roll {
         display: flex;
         flex-direction: column;
-
+        min-height: auto;
         padding: 25px 18px 70px 18px;
     }
 
     .intro {
+        width: 100%;
         padding-right: 0;
     }
 
     .image-area {
-        order: 2;
-
         width: 100%;
         padding-top: 50px;
-
-        justify-content: center;
     }
 
     .image-area img {
         width: 100%;
-        max-width: none;
+        max-width: 530px;
     }
 }
