@@ -57,24 +57,6 @@ h2 {
 }
 
 
-/* info 링크 */
-
-.links {
-    display: flex;
-    flex-direction: column;
-
-    margin-top: 2px;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 
 /* 본문 */
 
@@ -93,7 +75,7 @@ a:hover {
 }
 
 
-/* 전시 제목 */
+/* 연대기 */
 
 .info {
     margin-top: 65px;
