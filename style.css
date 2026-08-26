@@ -173,7 +173,9 @@ a:hover {
 
     font-weight: 400;
 }
-.bottom-menu .active {
+.bottom-menu a.active {
     font-weight: bold;
+    font-style: normal;
+}
 }
 }
