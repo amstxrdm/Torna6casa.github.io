@@ -154,4 +154,23 @@ a:hover {
 
 .bottom-menu a {
     white-space: nowrap;
+/* --------------------
+   Works 페이지
+-------------------- */
+
+.works {
+    padding: 25px 18px 70px 18px;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: flex-start;
+}
+
+.works a {
+    font-size: 38px;
+    line-height: 1.18;
+
+    font-weight: 400;
+}
 }
