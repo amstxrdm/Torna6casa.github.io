@@ -26,7 +26,7 @@ body {
    첫 화면
 -------------------- */
 
-.home {
+.credit-roll {
     display: grid;
 
     grid-template-columns: 48% 52%;
