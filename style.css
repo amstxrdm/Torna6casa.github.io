@@ -156,6 +156,21 @@ a:hover {
     white-space: nowrap;
 }
 
+/*움직임 설정*/
+.credit-roll {
+    position: relative;
+    animation: credits 60s linear;
+}
+
+@keyframes credits {
+    from {
+        transform: translateY(100vh);
+    }
+
+    to {
+        transform: translateY(-100%);
+    }
+}
 
 /* --------------------
    Works 페이지
