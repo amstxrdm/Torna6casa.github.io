@@ -130,10 +130,11 @@ h2 {
     z-index: 100;
 }
 
-.bottom-menu a {
+.bottom-menu a,
+.bottom-menu a:visited {
     white-space: nowrap;
+    color: black;
 }
-
 
 /* --------------------
    Works 페이지
