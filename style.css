@@ -165,7 +165,7 @@ a:visited {
 
 .bottom-menu a.active {
     font-weight: bold;
-    font-style: normal;
+    font-style: italic;
 }
 
 /* --------------------
